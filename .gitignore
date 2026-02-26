@@ -1,0 +1,13 @@
+target/
+minikube-linux-amd64
+kubectl
+*.jar
+.idea/
+.settings/
+.classpath
+.project
+.mvn/
+mvnw
+mvnw.cmd
+Docker-compose.yml
+timesheet.sql
